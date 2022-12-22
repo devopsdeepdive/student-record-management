@@ -5,8 +5,6 @@ This repository shows you how to containerize a .NET application using Docker Co
 
 
 
-
-
 ## Getting Started
 
 
